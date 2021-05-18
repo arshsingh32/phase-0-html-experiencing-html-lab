@@ -1,0 +1,4 @@
+"Pikachu"
+"Charizard"
+"Bulbasaur"
+"Squirtle"
